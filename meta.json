@@ -1,0 +1,16 @@
+{
+"title": "NASA-APIs", 
+"visibility": "public", 
+"type": "GIT", 
+"description": "Do you have feedback, ideas, or questions for NASA APIs? Use this repository's Issue Tracker to join the discussion.", 
+"url": "https://github.com/nasa/NASA-APIs",
+"repo": "nasa/NASA-APIs",
+"missions":["OCIO", "HQ"], 
+"categories": ["NASA", "Open Data"], 
+"languages": ["HTTP", "JSON"],
+"operating_systems": ["Linux", "Windows", "Unix", "Mac"],  
+"poc": "Jason Duley", 
+"poc_mbox": " jason.duley@nasa.gov", 
+"license": "NASA Open Source Agreement Version 1.3", 
+"software_types": ["api"]
+}
